@@ -22,12 +22,12 @@
     line-height: 2;
 }
 .site__item {
+    position: sticky;
     height: 70vh;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    position: sticky;
     left: 0;
 }
 .site__item.s1 {
